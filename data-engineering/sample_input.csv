@@ -1,0 +1,7 @@
+Customer ID,customerName,Amount Paid,transaction_date
+CUST001,Alice,100.50,2026-01-01
+CUST002, Bob ,N/A,2026-01-02
+CUST001,Alice,100.50,2026-01-01
+CUST003,Charlie,unknown,2026-01-03
+,Dave,50.00,2026-01-04
+CUST004,Eve,75.25,2026-01-05
