@@ -1,6 +1,6 @@
-# FDE Interview Prep — Code Samples
+# FDE  — Code Samples
 
-Working, tested Python scripts built for **Google Data FDE (Forward Deployed Engineer)** interview preparation, mapped directly to requirements for the **Staff Forward Deployed Engineer, GenAI, Google Cloud, Data** role.
+Working, tested Python scripts built for **Google Data FDE (Forward Deployed Engineer)** 
 
 Each script is self-contained, runnable, and includes a demo/test at the bottom:
 
